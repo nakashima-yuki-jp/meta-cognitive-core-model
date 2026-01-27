@@ -1,35 +1,87 @@
 # Meta-Cognitive Core Model (MCM)
 
+**Intelligence isn’t IQ—it’s an OS.**  
 Hub repository for the **Meta-Cognitive Core Model (MCM)** series: Zenodo DOIs, cross-site links (Zenodo/PsyArXiv/GitHub), and unified metadata.
 
 ## What this is
-This repository is the public hub for the MCM series. It aggregates the canonical Zenodo records (preprint + supplementary materials), maintains cross-site links, and manages unified metadata (e.g., JSON exports).
+MCM is a **theoretical model / conceptual framework** that reconceptualizes intelligence as a **dynamic operational system**: allocation, activation/suppression, and reconfiguration of cognitive functions across contexts.  
+It is intended for **reflective analysis and visualization** of intelligence operations (not measurement).
 
-## Important: Non-diagnostic; not a typing scheme
-- This series is a reference framework for describing **intelligence operations**.
-- It is **not** a medical/clinical diagnostic tool.
-- It is **not** a personality typing scheme, and is not intended for screening, hiring, HR evaluation, or medical decision-making.
+**Non-diagnostic; not a personality typing scheme.**
 
-## Canonical record / Citation (Zenodo)
-Please cite the Zenodo **concept DOI (all versions)** for the main manuscript:
-- **Main manuscript (A) — Concept DOI (all versions):** 10.5281/zenodo.18369077
+## Zenodo (concept DOIs / record families)
+These are the three Zenodo concept DOIs used in this series:
 
-Supplementary materials:
-- **[04] Logos Map (B) — Concept DOI (all versions):** 10.5281/zenodo.18371011
-- **[05] Implementation Case (C) — Concept DOI (all versions):** 10.5281/zenodo.18371419
+- **A — Core manuscript & supplementary materials (00–03)** (concept DOI / all versions): **10.5281/zenodo.18369077**
+- **B — [04] Logos Map** (concept DOI / all versions): **10.5281/zenodo.18371011**
+- **C — [05] Implementation Case** (concept DOI / all versions): **10.5281/zenodo.18371419**
 
-## PsyArXiv
-- PsyArXiv page: (add URL after posting)
+## Series files (00–07)
+File numbers **[00]–[07]** identify the series modules/materials:
+
+- **[00]** Meta-Cognitive Core  
+- **[01]** V-H-D Axes  
+- **[02]** 12 Intelligence Components   
+- **[03]** 8 Operational Prototypes   
+- **[04]** Logos Map (logical domain map)  
+- **[05]** Implementation Case (reference case study)  
+- **[06]** Simulation Protocol (planned)  
+- **[07]** Report Summaries (planned)
+
+## Series metaphor (navigation)
+- **[04]** = the **map**   
+- **[05]** = the **lighthouse**   
+- **[06]** = the **path**   
+- **[07]** = the **footprints** 
 
 ## Contact
-Please use GitHub Issues for questions and feedback (**do not post personal information**).  
-Replies may be slow (days to weeks).
-
-- https://github.com/nakashima-yuki-jp/meta-cognitive-core-model/issues
-
-## Author
-- Yuki Nakashima (中島 悠希)
-- ORCID: https://orcid.org/0009-0005-2774-2199
+Use **GitHub Issues** (slow replies; do not post personal information).   
+https://github.com/nakashima-yuki-jp/meta-cognitive-core-model/issues
 
 ## License
 CC BY 4.0 (see `LICENSE`).
+
+---
+
+# メタ認知核モデル（MCM）
+
+**知性はIQではない。OSである。**  
+本リポジトリは **Meta-Cognitive Core Model (MCM)** シリーズの公開ハブです。Zenodo DOI、相互リンク（Zenodo/PsyArXiv/GitHub）、メタデータ（JSON等）を統合管理します。
+
+## 概要
+MCMは、知性を固定的な特性ではなく、状況に応じて機能を配分・起動／抑制・再構成する **動的運用システム**として捉える **理論モデル／概念フレームワーク**です。  
+知性を「測る」ものではなく、知性運用を「観察・可視化する」ための参照枠組みを意図します。
+
+**非診断・非タイプ論。**
+
+## Zenodo（Concept DOI / レコード群）
+本シリーズでは、Zenodo上の3つのConcept DOI（全バージョン）を用います：
+
+- **A（本文＋補助資料00–03）**（Concept DOI / 全バージョン）：**10.5281/zenodo.18369077**
+- **B（[04] Logos Map）**（Concept DOI / 全バージョン）：**10.5281/zenodo.18371011**
+- **C（[05] Implementation Case）**（Concept DOI / 全バージョン）：**10.5281/zenodo.18371419**
+
+## シリーズ番号（00–07）
+ファイル番号 **[00]–[07]** は、シリーズのモジュール／資料を識別します：
+
+- **[00]** メタ認知核  
+- **[01]** V-H-D軸  
+- **[02]** 12の知性コンポーネント  
+- **[03]** 8のプロトタイプ  
+- **[04]** 論理世界地図（背景ドメイン）  
+- **[05]** 実装リファレンス（ケーススタディ）  
+- **[06]** シミュレーション手順（予定）  
+- **[07]** レポート（予定）
+
+## 比喩（ナビゲーション）
+- **[04]**＝**地図**  
+- **[05]**＝**灯火**  
+- **[06]**＝**道**  
+- **[07]**＝**足跡**
+
+## 連絡先
+**GitHub Issues** をご利用ください（返信遅め/個人情報は投稿しないでください）。  
+https://github.com/nakashima-yuki-jp/meta-cognitive-core-model/issues
+
+## ライセンス
+CC BY 4.0（`LICENSE`参照）
