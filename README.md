@@ -22,7 +22,7 @@ File numbers **[00]–[07]** identify the series modules/materials:
 - **[00]** Meta-Cognitive Core  
 - **[01]** V-H-D Axes  
 - **[02]** 12 Intelligence Components   
-- **[03]** 8 Operational Prototypes   
+- **[03]** 8 Prototypes   
 - **[04]** Logos Map (logical domain map)  
 - **[05]** Implementation Case (reference case study)  
 - **[06]** Simulation Protocol (planned)  
@@ -34,8 +34,9 @@ File numbers **[00]–[07]** identify the series modules/materials:
 - **[06]** = the **path**   
 - **[07]** = the **footprints** 
 
-## Contact
-Use **GitHub Issues** (slow replies; do not post personal information).   
+## Contact 
+**GitHub Issues**   
+Replies may be slow. Do not post personal information.
 https://github.com/nakashima-yuki-jp/meta-cognitive-core-model/issues
 
 ## License
@@ -80,7 +81,8 @@ MCMは、知性を固定的な特性ではなく、状況に応じて機能を�
 - **[07]**＝**足跡**
 
 ## 連絡先
-**GitHub Issues** をご利用ください（返信遅め/個人情報は投稿しないでください）。  
+**GitHub Issues**  
+返信は遅くなります。個人情報は投稿しないでください。
 https://github.com/nakashima-yuki-jp/meta-cognitive-core-model/issues
 
 ## ライセンス
