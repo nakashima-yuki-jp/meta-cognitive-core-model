@@ -6,9 +6,9 @@ Hub repository for the Meta-Cognitive Core Model (MCM) series: Zenodo DOIs, cros
 本リポジトリは **Meta-Cognitive Core Model (MCM)** シリーズの公開ハブです。Zenodo上の本文・補助資料・参照データのDOIを集約し、PsyArXiv/GitHub等との相互リンク、およびメタデータ（JSON等）の統合管理を行います。
 
 ## Zenodo（DOI）
-- **A（本文＋補助資料00–03＋図）**：https://doi.org/10.5281/zenodo.18369078
-- **B（04 Logos Map）**：https://doi.org/10.5281/zenodo.18371012
-- **C（05 Implementation Case）**：https://doi.org/10.5281/zenodo.18371420
+- **A（本文＋補助資料00–03＋図）**：https://doi.org/10.5281/zenodo.18369077
+- **B（04 Logos Map）**：https://doi.org/10.5281/zenodo.18371011
+- **C（05 Implementation Case）**：https://doi.org/10.5281/zenodo.18371419
 
 ## 非診断・非タイプ論（重要）
 - 本シリーズは、知性・認知活動の「運用」を記述するための参照モデルです。
