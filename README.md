@@ -3,6 +3,9 @@
 **Intelligence isn’t IQ—it’s an OS.**  
 Hub repository for the **Meta-Cognitive Core Model (MCM)** series: Zenodo DOIs, cross-site links (Zenodo/PsyArXiv/OSF/GitHub), and unified metadata.
 
+**Canonical link (citation anchor): Zenodo A (concept DOI / all versions)**  
+https://doi.org/10.5281/zenodo.18369077
+
 ## What this is
 MCM is a **theoretical model / conceptual framework** that reconceptualizes intelligence as a **dynamic operational system**: allocation, activation/suppression, and reconfiguration of cognitive functions across contexts.  
 It is intended for **reflective analysis and visualization** of intelligence operations (not measurement).
@@ -14,7 +17,7 @@ These are the three Zenodo **concept DOIs** used in this series (all versions):
 
 - **A — Core manuscript & supplementary materials (00–03)**: https://doi.org/10.5281/zenodo.18369077
 - **B — [04] Logos Map**: https://doi.org/10.5281/zenodo.18371011
-- **C — [05] Implementation Case**: https://doi.org/10.5281/zenodo.18371419
+- **C — [05] Implementation Reference**: https://doi.org/10.5281/zenodo.18371419
 
 ## PsyArXiv / OSF
 - **OSF Project**: https://osf.io/7nwt2/overview
@@ -52,6 +55,9 @@ CC BY 4.0 (see `LICENSE`).
 **知性はIQではない。OSである。**  
 本リポジトリは **Meta-Cognitive Core Model (MCM)** シリーズの公開ハブです。Zenodo DOI、相互リンク（Zenodo/PsyArXiv/OSF/GitHub）、メタデータ（JSON等）を統合管理します。
 
+**基準リンク（引用の基準点）：Zenodo A（Concept DOI / 全バージョン）**  
+https://doi.org/10.5281/zenodo.18369077
+
 ## 概要
 MCMは、知性を固定的な特性ではなく、状況に応じて機能を配分・起動／抑制・再構成する **動的運用システム**として捉える **理論モデル／概念フレームワーク**です。  
 知性を「測る」ものではなく、知性運用を「観察・可視化する」ための参照枠組みを意図します。
@@ -63,7 +69,7 @@ MCMは、知性を固定的な特性ではなく、状況に応じて機能を�
 
 - **A（本文＋補助資料00–03）**：https://doi.org/10.5281/zenodo.18369077
 - **B（[04] Logos Map）**：https://doi.org/10.5281/zenodo.18371011
-- **C（[05] Implementation Case）**：https://doi.org/10.5281/zenodo.18371419
+- **C（[05] Implementation Reference）**：https://doi.org/10.5281/zenodo.18371419
 
 ## PsyArXiv / OSF
 - **OSFプロジェクト**: https://osf.io/7nwt2/overview
