@@ -16,27 +16,30 @@ These are the three Zenodo concept DOIs used in this series:
 - **B — [04] Logos Map** (concept DOI / all versions): **10.5281/zenodo.18371011**
 - **C — [05] Implementation Case** (concept DOI / all versions): **10.5281/zenodo.18371419**
 
+## PsyArXiv / OSF
+- **OSF Project**: https://osf.io/7nwt2/
+
 ## Series files (00–07)
 File numbers **[00]–[07]** identify the series modules/materials:
 
 - **[00]** Meta-Cognitive Core  
 - **[01]** V-H-D Axes  
-- **[02]** 12 Intelligence Components   
-- **[03]** 8 Prototypes   
+- **[02]** 12 Intelligence Components  
+- **[03]** 8 Prototypes  
 - **[04]** Logos Map (logical domain map)  
 - **[05]** Implementation Case (reference case study)  
 - **[06]** Simulation Protocol (planned)  
 - **[07]** Report Summaries (planned)
 
-## Series metaphor (navigation)
-- **[04]** = the **map**   
-- **[05]** = the **lighthouse**   
-- **[06]** = the **path**   
-- **[07]** = the **footprints** 
+## Navigation labels (series metaphor)
+- **[04] Map** — Logos Map (logical domain map)  
+- **[05] Lighthouse** — Implementation Case (operational reference)  
+- **[06] Path** — Simulation Protocol (planned)  
+- **[07] Footprints** — Report Summaries (planned)
 
-## Contact 
-**GitHub Issues**   
-Replies may be slow. Do not post personal information.
+## Contact
+**GitHub Issues**  
+Replies may be slow. Do not post personal information.  
 https://github.com/nakashima-yuki-jp/meta-cognitive-core-model/issues
 
 ## License
@@ -62,6 +65,9 @@ MCMは、知性を固定的な特性ではなく、状況に応じて機能を�
 - **B（[04] Logos Map）**（Concept DOI / 全バージョン）：**10.5281/zenodo.18371011**
 - **C（[05] Implementation Case）**（Concept DOI / 全バージョン）：**10.5281/zenodo.18371419**
 
+## PsyArXiv / OSF
+- **OSFプロジェクト**: https://osf.io/7nwt2/
+
 ## シリーズ番号（00–07）
 ファイル番号 **[00]–[07]** は、シリーズのモジュール／資料を識別します：
 
@@ -74,15 +80,15 @@ MCMは、知性を固定的な特性ではなく、状況に応じて機能を�
 - **[06]** シミュレーション手順（予定）  
 - **[07]** レポート（予定）
 
-## 比喩（ナビゲーション）
-- **[04]**＝**地図**  
-- **[05]**＝**灯火**  
-- **[06]**＝**道**  
-- **[07]**＝**足跡**
+## ナビゲーション（シリーズ比喩）
+- **[04] 地図** — 論理世界地図（背景ドメイン）  
+- **[05] 灯火** — 実装リファレンス（運用参照例）  
+- **[06] 道** — シミュレーション手順（予定）  
+- **[07] 足跡** — レポート（予定）
 
 ## 連絡先
 **GitHub Issues**  
-返信は遅くなります。個人情報は投稿しないでください。
+返信は遅くなります。個人情報は投稿しないでください。  
 https://github.com/nakashima-yuki-jp/meta-cognitive-core-model/issues
 
 ## ライセンス
