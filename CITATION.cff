@@ -1,0 +1,57 @@
+# CITATION.cff
+cff-version: 1.2.0
+message: >-
+  If you use or discuss the Meta-Cognitive Core Model (MCM), please cite the
+  Zenodo concept DOI(s) listed under "preferred-citation" and "references".
+title: Meta-Cognitive Core Model (MCM)
+type: software
+authors:
+  - family-names: Nakashima
+    given-names: Yuki
+    orcid: https://orcid.org/0009-0005-2774-2199
+repository-code: https://github.com/nakashima-yuki-jp/meta-cognitive-core-model
+license: CC-BY-4.0
+keywords:
+  - Metacognition
+  - MetaCognitiveCoreModel
+  - TheoreticalPaper
+  - ConceptualFramework
+  - CognitiveScience
+  - PhilosophyOfMind
+  - CognitiveArchitecture
+  - IntelligenceOperations
+  - HumanAIInteraction
+  - DynamicIntelligence
+  - MetaAlgorithm
+  - OperationalIntelligence
+  - MentalModel
+  - ExecutiveFunctions
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Nakashima
+      given-names: Yuki
+      orcid: https://orcid.org/0009-0005-2774-2199
+  title: Meta-Cognitive Core Model (MCM) — Core Manuscript & Supplementary Materials (00–03)
+  publisher: Zenodo
+  doi: 10.5281/zenodo.18369077
+
+references:
+  - type: article
+    authors:
+      - family-names: Nakashima
+        given-names: Yuki
+        orcid: https://orcid.org/0009-0005-2774-2199
+    title: Meta-Cognitive Core Model (MCM) — Logos Map (04)
+    publisher: Zenodo
+    doi: 10.5281/zenodo.18371011
+
+  - type: article
+    authors:
+      - family-names: Nakashima
+        given-names: Yuki
+        orcid: https://orcid.org/0009-0005-2774-2199
+    title: Meta-Cognitive Core Model (MCM) — Implementation Reference: Case Study (05)
+    publisher: Zenodo
+    doi: 10.5281/zenodo.18371419
